@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi 👋 Im Andrés
+#### I’m Jr. Full Stack Web Developer
+I live in Madrid, Spain. 
+
+
+- I’m currently working on an application called FakeStragram, using **Angular, TypeScript, Mongo Db and Node Js.**
+
+<code><img src="" /><code>
+
+
+github profile in process...
+
 
 <!--
 **AndresVazqez/AndresVazqez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
