@@ -5,10 +5,13 @@ I live in Madrid, Spain.
 
 - I’m currently working on an application called FakeStragram, using **Angular, TypeScript, Mongo Db and Node Js.**
 
-<code><img src="" /><code>
+GitHub profile in process...
+
+#### 👨🏻‍💻 Languages and Tools <br />
+
+<code><img src="https://i.ibb.co/mvkJMBd/banner-Full-Sctack.png" /><code>
 
 
-github profile in process...
 
 
 <!--
