@@ -6,7 +6,7 @@ I live in Madrid, Spain.
 - I’m currently working on an application called FakeStragram, using **Angular, TypeScript, Mongo Db and Node Js.**
 
 This is me, but I like it, because I know that every day I am improving my code. 😁
-<code><img width="500" src="https://i.ibb.co/68tHQT6/me.png"></code>
+<code ><img width="500" src="https://i.ibb.co/68tHQT6/me.png"></code>
 
 GitHub profile in process...
 
